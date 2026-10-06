@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-117-wire-notifications-tab-to-usenotifications",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-117-wire-notifications-tab-to-usenotifications": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-117-wire-notifications-tab-to-usenotifications",
+    "origin"
+  ]
+}
